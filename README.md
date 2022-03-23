@@ -1,1 +1,1 @@
-# odin-recipes
+Demonstrating Git and HTML competencies.
